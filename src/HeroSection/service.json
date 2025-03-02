@@ -1,0 +1,30 @@
+
+[{
+    "name":"Footfall Analysis",
+    "icon":"FaArrowsDownToPeople"
+},
+{
+    "name":"Retail",
+    "icon":"FaArchway"
+},
+{
+    "name":"Charging Stations",
+    "icon":"FaChargingStation"
+},
+{
+    "name":"Restaurants",
+    "icon":"FaUtensils"
+},
+{
+    "name":"Traffic Analysis",
+    "icon":"FaTrafficLight"
+},
+{
+    "name":"Market Landscape",
+    "icon":"FaShop"
+},
+{
+    "name":"Route Identification",
+    "icon":"FaRoute"
+}
+]
