@@ -13,7 +13,8 @@ export default function About() {
     <div>
         <section className="p-8 bg-gray-800 flex flex-col justify-start items-center text-gray-400">
             <div>
-            <h2 className="mt-10 text-3xl font-bold">Unlock the power of The Datatactic POI database to revolutionize <br/>your business landscape.</h2>
+            <h2 className="mt-10 text-3xl font-bold">Unlock the power of The Datatactic Location database to revolutionize
+            <br/>your business landscape.</h2>
             </div>
             <div className="p-10 flex flex-col md:flex-row justify-center items-center w-full max-w-5xl gap-10 ml-12">
                 {

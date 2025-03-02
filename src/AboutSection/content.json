@@ -1,7 +1,7 @@
 [{
     "image": "GiGlobe",
     "title": "Comprehensive Data Coverage",
-    "description":"Access a diverse range of POI datasets enriched with key attributes, including store addresses, emails, amenities, and more—empowering you with precise location intelligence.",
+    "description":"Access a diverse range of location/mobility datasets for your POIs enriched with key attributes, including store addresses, amenities, and more—empowering you with precise location intelligence.",
     "tansition": "1"
 },
 {
@@ -13,12 +13,12 @@
 {
     "image": "GiFiles",
     "title": "Flexible Data Formats",
-    "description":"Receive your location data in the format that best suits your needs—whether it's CSV, JSON, MS Excel, or other industry-standard formats.",
+    "description":"Receive your location data in the format that best suits your needs—whether it's csv.gz, parquet or other industry-standard formats.",
     "tansition": "2"
 },
 {
     "image": "GiDatabase",
     "title": "High-Quality, On-Demand Data",
-    "description":"Get access to customized, on-demand POI datasets with a guaranteed 95% accuracy rate and rapid turnaround times to fuel your business decisions.",
+    "description":"Get access to customized, on-demand location datasets with a guaranteed excellent accuracy rate and rapid turnaround times to fuel your business decisions.",
     "tansition": "2.5"
 }]

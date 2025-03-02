@@ -8,11 +8,11 @@
     "icon":"FaArchway"
 },
 {
-    "name":"Charging Stations",
+    "name":"EV-Charging Stations",
     "icon":"FaChargingStation"
 },
 {
-    "name":"HoReCa",
+    "name":"HoReCa Analysis",
     "icon":"FaUtensils"
 },
 {
@@ -20,11 +20,11 @@
     "icon":"FaTrafficLight"
 },
 {
-    "name":"Market Landscape",
+    "name":"Market Landscape Analysis",
     "icon":"FaShop"
 },
 {
-    "name":"Route Identification",
+    "name":"Route Identification Analysis",
     "icon":"FaRoute"
 }
 ]
