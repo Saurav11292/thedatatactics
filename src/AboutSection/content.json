@@ -1,0 +1,24 @@
+[{
+    "image": "GiGlobe",
+    "title": "Comprehensive Data Coverage",
+    "description":"Access a diverse range of POI datasets enriched with key attributes, including store addresses, emails, amenities, and more—empowering you with precise location intelligence.",
+    "tansition": "1"
+},
+{
+    "image": "GiHourglass",
+    "title": "Always Up-to-Date",
+    "description":"Stay ahead with our dynamic 30/60/90-day refresh cycles, ensuring your POI database remains accurate, reliable, and continuously updated.",
+    "tansition": "1.5"
+},
+{
+    "image": "GiFiles",
+    "title": "Flexible Data Formats",
+    "description":"Receive your location data in the format that best suits your needs—whether it's CSV, JSON, MS Excel, or other industry-standard formats.",
+    "tansition": "2"
+},
+{
+    "image": "GiDatabase",
+    "title": "High-Quality, On-Demand Data",
+    "description":"Get access to customized, on-demand POI datasets with a guaranteed 95% accuracy rate and rapid turnaround times to fuel your business decisions.",
+    "tansition": "2.5"
+}]
